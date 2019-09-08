@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+
+#home{
+    width: 900px;
+    height: 700px;
+    margin: 0 auto;
+}
+
+#text p{
+    margin-top: -7px;
+    margin-bottom: -50px;
+}
+
